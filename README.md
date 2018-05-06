@@ -15,7 +15,7 @@ Gradient boosting is a machine learning technique for regression and classificat
 >
 > In **gradient boosting machines (GBMs)**, the learning procedure consecutively fits new models to provide a more accurate estimate of the response variable. The principle idea behind this algorithm is to construct the new base-learners to be maximally correlated with the negative gradient of the loss function, associated with the whole ensemble. If the error function is the classic squared-error loss, the learning procedure would result in consecutive error-fitting.
 
-# Projects:
+# Mini Projects (R and Python):
 
 ## A. [Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post)
 
@@ -26,3 +26,7 @@ Gradient boosting is a machine learning technique for regression and classificat
 2. **`/usr/bin/ld: cannot find -lzlib`**\
  `ld -lzlib --verbose` \
  `sudo ln -s /usr/lib/lzlib.so.1.2.8 /usr/lib/libzlib.so` [[source]](https://stackoverflow.com/a/21647591/7541032)
+
+## B. [XGBoost Model in Python?](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
+
+1. Includes some `EDA` using seaborn library (visual inspection, correlation, etc) and predictions using XGBoost Model
