@@ -29,4 +29,4 @@ Gradient boosting is a machine learning technique for regression and classificat
 
 ## B. [XGBoost Model in Python?](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
 
-1. Includes some `EDA` (visualisation, correlation quick inspection using `seaborn`) and predictions using XGBoost Model
+1. `EDA` (visualisation, correlation quick inspection using `seaborn`) and predictions using XGBoost Model
